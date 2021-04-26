@@ -1,0 +1,30 @@
+﻿Country Name,Country Code,Series Name,Series Code,2017 [YR2017],2018 [YR2018],2019 [YR2019]
+North America,NAC,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,10.4614050770651
+North America,NAC,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,..,..,..
+North America,NAC,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,3.3,3.3,3.2
+Latin America & Caribbean,LCN,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,9.69427117823043
+Latin America & Caribbean,LCN,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,6.91030939168702,6.73504913686653,..
+Latin America & Caribbean,LCN,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,43,43,43
+Europe & Central Asia,ECS,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,6.6868839943982
+Europe & Central Asia,ECS,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,..,..,..
+Europe & Central Asia,ECS,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,30,28,27
+Central Europe and the Baltics,CEB,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,6.29591177863991
+Central Europe and the Baltics,CEB,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,..,..,..
+Central Europe and the Baltics,CEB,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,..,..,..
+Middle East & North Africa,MEA,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,11.3738839722512
+Middle East & North Africa,MEA,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,3.95445013681176,4.42739809308446,..
+Middle East & North Africa,MEA,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,31,31,30
+Sub-Saharan Africa,SSF,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,5.35943975938355
+Sub-Saharan Africa,SSF,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,224.537628560153,219.127334475249,..
+Sub-Saharan Africa,SSF,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,244,235,226
+East Asia & Pacific,EAS,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,8.20255333603384
+East Asia & Pacific,EAS,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,3.51027379401395,2.88325251802629,..
+East Asia & Pacific,EAS,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,135,133,130
+South Asia,SAS,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,11.2379264462022
+South Asia,SAS,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,7.34061369078788,5.41030222998064,..
+South Asia,SAS,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,212,207,203
+,,,,,,
+,,,,,,
+,,,,,,
+Data from database: World Development Indicators,,,,,,
+Last Updated: 03/19/2021,,,,,,
